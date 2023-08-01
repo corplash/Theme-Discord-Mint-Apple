@@ -1,0 +1,45 @@
+/**
+ * @name Mint Apple
+ * @author corplash
+ * @version 1.0.5
+ * @description Theme Para Discord | Mint Apple.
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+
+:root {
+  --background: url('https://i.imgur.com/wxAPrTI.png');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: var(--background);
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 6,171,113;
+  --backdrop: rgb(0,0,0,0.69);
+  --textshadow: transparent;
+  --transparencyalpha: 0.62;
+  --messagetransparency: 0;
+  --guildchanneltransparency: 0.16;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0.16;
+  --font: gg sans;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 90,90,90;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/* Any custom CSS below here */
+
+
